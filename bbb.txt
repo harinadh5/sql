@@ -1,0 +1,3 @@
+select * from empy
+inner join dept
+on empy.deptno=dept.deptno where empy.sal>2000;
