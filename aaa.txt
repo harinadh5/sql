@@ -1,0 +1,1 @@
+select * from empy where date_format(hiredate,"%y")=81 and sal >2000;
